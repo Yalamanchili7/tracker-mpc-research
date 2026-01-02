@@ -1,0 +1,11 @@
+# Solar Tracker Optimization Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+pvlib>=0.10.0
+torch>=2.0.0
+stable-baselines3>=2.1.0
+gymnasium>=0.29.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+tqdm>=4.65.0
