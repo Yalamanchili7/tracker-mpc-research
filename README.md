@@ -109,11 +109,6 @@ Cloudy          | +3.66% avg      | Forecasting helps!
 Best single day | +7.63%          | High variability day
 ```
 
-## 🏢 Industry Relevance
-
-This research validates the approach used by:
-- **Nextracker TrueCapture** - Uses irradiance sensing + cloud detection
-- **Array Technologies SmarTrack** - ML-based diffuse optimization
 
 The finding that **forecasting is necessary to beat backtracking** explains why these products focus on real-time sensing rather than pure ML.
 
@@ -123,7 +118,7 @@ MIT License - see [LICENSE](LICENSE)
 
 ## 👤 Author
 
-**Sundeep Gupta**  
+**Sundeep Yalamanchilia**  
 AI Engineer specializing in solar development technology
 
 ---
