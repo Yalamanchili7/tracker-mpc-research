@@ -50,8 +50,8 @@ Data not included in repo. Download from [NREL NSRDB](https://nsrdb.nrel.gov/) o
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/solar-tracker-optimization.git
-cd solar-tracker-optimization
+git clone https://github.com/yalamanchili7/tracker-mpc-research.git
+cd tracker-mpc-research
 
 # Create environment
 python -m venv venv
